@@ -1,0 +1,32 @@
+
+body {
+	text-align: center;
+	background: #70ccf1
+}
+
+#ID_fake00 {
+	width: 40%;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+}
+
+h2 {
+	text-align: left;
+		color: White;
+			text-shadow: 2px 2px black;
+}
+
+p {
+	text-align: center;
+}
+
+#sites {
+	font-size: 20px
+}
+
+#ID_fake01 {
+	width: 70%;
+}
